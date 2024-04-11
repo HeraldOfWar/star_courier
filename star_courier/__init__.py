@@ -1,0 +1,1 @@
+from .alice_init import app
