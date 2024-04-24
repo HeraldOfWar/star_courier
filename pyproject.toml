@@ -7,8 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-aliceio = "^0.0.2"
-
+flask = "^3.0.3"
 
 [build-system]
 requires = ["poetry-core"]
